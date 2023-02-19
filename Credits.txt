@@ -1,0 +1,22 @@
+Written in Python 3.8 using the Pygame Module. 2020
+
+Programming - JurassicJaws
+Artwork - JurassicJaws
+Underwater Sounds - Yosarrian
+Death Sound - LittleRainySeasons
+Crunch Sound - ClearwavSound
+Ammo Sound - Unfa
+Kill Sound - Huminaatio
+Hit Sounds -ihitokage
+"Dialogue, Pained Yelp, Loud, D.wav" by InspectorJ
+Pop Sound - deraj
+Boom Sound - IdkMrGarcia
+Squid Drawing Concept - Priya Smith
+
+Many thanks to...
+
+Python
+Pygame
+FreeSound.org
+Piskel.com
+itch.io
